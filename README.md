@@ -8,6 +8,7 @@ Códigos em Assembly RISC-V desenvolvidos na disciplina **SSC0902 - Organizaçã
 </p>
 
 > **Disciplina:** SSC0902 - Organização e Arquitetura de Computadores <br>
+> **Professor(a):** Sarita Mazzini Bruschi <br>
 > **Instituição:** USP - Universidade de São Paulo
 
 <p align="center">
